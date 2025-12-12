@@ -15,7 +15,7 @@
 
 ## 📸 Preview
 
-![Weather App Screenshot](./screenshot.png)
+![Weather App Screenshot](./images/screenshot.png)
 
 > **ملاحظة:**  
 > سمّي الصورة في الريبو: `screenshot.png`  
